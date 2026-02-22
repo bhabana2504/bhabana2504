@@ -5,18 +5,15 @@
 <h1 align="center">Hi 👋, I'm Bhabana Kalita</h1>
 <h3 align="center">A machine learning and full stack developer</h3>
 
-<p>
   <a href="mailto:bhabanakalita25@gmail.com">
     <img src="https://img.shields.io/badge/Email-bhabanakalita25%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/bhabana-kalita-338640295/">
-    <img src="https://img.shields.io/badge/LinkedIn-Bhabana%20Kalita-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://leetcode.com/u/Bhabana_Kalita/">
-    <img src="https://img.shields.io/badge/LeetCode-Bhabana__Kalita-FFA116?style=flat-square&logo=leetcode&logoColor=white" />
-  </a>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/bhabana-kalita-338640295" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bhabana-kalita-338640295" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/bhabana2504" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="bhabana2504" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/bhabana_kalita" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bhabana_kalita" height="30" width="40" /></a>
 </p>
 
 <br/>
