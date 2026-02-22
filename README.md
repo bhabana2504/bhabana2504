@@ -70,5 +70,5 @@ Computer Science undergraduate with a focus on building practical, impact-driven
 ---
 
 <div align="center">
-  <sub>Open to internship opportunities in software development, web development, and related fields.</sub>
+  <sub>Open to internship opportunities in software development, web development, machine learning and related fields.</sub>
 </div>
