@@ -2,18 +2,21 @@
 
 <br/>
 
-<h1 align="center">Hi 👋, I'm Bhabana Kalita</h1>
-<h3 align="center">A machine learning and full stack developer</h3>
+<h1 align="center">Hi, I'm Bhabana Kalita</h1>
+<h3 align="center">A Machine Learning and Full Stack Developer</h3>
 
+<p align="center">
   <a href="mailto:bhabanakalita25@gmail.com">
-    <img src="https://img.shields.io/badge/Email-bhabanakalita25%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://www.svgrepo.com/show/349378/gmail.svg" width="22" />
   </a>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/bhabana-kalita-338640295" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bhabana-kalita-338640295" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/bhabana2504" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="bhabana2504" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/bhabana_kalita" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bhabana_kalita" height="30" width="40" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/bhabana-kalita-338640295/">
+    <img src="https://www.svgrepo.com/show/157006/linkedin.svg" width="22" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/Bhabana_Kalita/">
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="22" />
+  </a>
 </p>
 
 <br/>
@@ -24,7 +27,7 @@
 
 ## About
 
-Computer Science undergraduate with a focus on building practical, impact-driven software. My work spans web development, machine learning , and AI-assisted applications — with a consistent emphasis on security, accessibility, system design , databases and real-world utility. 
+Computer Science undergraduate with a focus on building practical, impact-driven software. My work spans web development, machine learning , and AI-assisted applications - with a consistent emphasis on security, accessibility, system design , databases and real-world utility. 
 
 ---
 
@@ -70,5 +73,5 @@ Computer Science undergraduate with a focus on building practical, impact-driven
 ---
 
 <div align="center">
-  <sub>Open to internship opportunities in software development, web development, machine learning and related fields.</sub>
+  <sub>Open To Internship Opportunities in Software Development, Web Development, Machine Learning and related fields.</sub>
 </div>
