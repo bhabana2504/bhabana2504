@@ -37,7 +37,7 @@ Computer Science undergraduate with a focus on building practical, impact-driven
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bhabana2504/bhabana2504/output/github-snake.svg" />
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bhabana2504/bhabana2504/output/github-snake.svg" />
 </picture>
----
+
 
 ## Technical Skills
 
