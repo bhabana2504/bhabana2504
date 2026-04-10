@@ -30,6 +30,13 @@
 Computer Science undergraduate with a focus on building practical, impact-driven software. My work spans web development, machine learning , and AI-assisted applications - with a consistent emphasis on security, accessibility, system design , databases and real-world utility. 
 
 ---
+## GitHub Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bhabana2504/bhabana2504/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bhabana2504/bhabana2504/output/github-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bhabana2504/bhabana2504/output/github-snake.svg" />
+</picture>
 
 ## Technical Skills
 
