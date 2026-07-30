@@ -84,7 +84,10 @@ Computer Science undergraduate with a focus on building practical, impact-driven
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhabana2504&theme=2077" alt="Bhabana's GitHub Details" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bhabana2504&theme=2077" alt="Top Commit Languages" width="49%" />
+  <p align="center">
+  <img src="https://camo.githubusercontent.com/c12dc84f6379c8cb610a396144918a63fe6c5eb686ce2c87c8cf810f4845e1f9/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f32322f32632f33352f32323263333563366139633432343538636466383261383837356135396166612e676966" alt="Animated Cat" width="280"/>
+</p>
+
 </p>
 
 <p align="center">
