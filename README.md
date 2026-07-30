@@ -98,7 +98,7 @@ Computer Science undergraduate with a focus on building practical, impact-driven
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bhabana2504&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
----
+
 <div align="center">
   <sub>Open To Internship Opportunities in Software Development, Web Development, Machine Learning and related fields.</sub>
 </div>
