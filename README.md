@@ -80,7 +80,23 @@ Computer Science undergraduate with a focus on building practical, impact-driven
 | <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="14" valign="middle"/> &nbsp;LeetCode | [leetcode.com/u/Bhabana_Kalita](https://leetcode.com/u/Bhabana_Kalita/) |
 
 ---
+<h2 align="center"> GitHub Statistics</h2>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhabana2504&theme=2077" alt="Bhabana's GitHub Details" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bhabana2504&theme=2077" alt="Top Commit Languages" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhabana2504&theme=react-dark" alt="GitHub Activity Graph" width="98%" />
+</p>
+
+<hr/>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bhabana2504&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+</p>
+---
 <div align="center">
   <sub>Open To Internship Opportunities in Software Development, Web Development, Machine Learning and related fields.</sub>
 </div>
