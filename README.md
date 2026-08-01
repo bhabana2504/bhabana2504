@@ -11,7 +11,7 @@
 <h3>A Machine Learning and Full Stack Developer</h3>
 
 <p>
-  <a href="mailto:bhabanakalita25@gmail.com">
+  ### Contact me :- <a href="mailto:bhabanakalita25@gmail.com">
     <img src="https://www.svgrepo.com/show/349378/gmail.svg" width="24">
   </a>
   &nbsp;&nbsp;
