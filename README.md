@@ -2,30 +2,38 @@
 
 <br/>
 
-<h1 align="left">
-  Hi, I'm Bhabana Kalita
-  <img src="https://camo.githubusercontent.com/41935d0f324d6684b781fbd9c63e622d0535df53f8e248ef81bebbffc637188d/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966"
-       width="300"
-        style="margin-left:-6px; vertical-align:middle;"/>
-</h1>
-<h3 align="center">A Machine Learning and Full Stack Developer</h3>
+<table>
+<tr>
+<td align="left">
 
-<p align="center">
+<h1> Hi, I'm Bhabana Kalita </h1>
+
+<h3>A Machine Learning and Full Stack Developer</h3>
+
+<p>
   <a href="mailto:bhabanakalita25@gmail.com">
-    <img src="https://www.svgrepo.com/show/349378/gmail.svg" width="22" />
+    <img src="https://www.svgrepo.com/show/349378/gmail.svg" width="24">
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/bhabana-kalita-338640295/">
-    <img src="https://www.svgrepo.com/show/157006/linkedin.svg" width="22" />
+    <img src="https://www.svgrepo.com/show/157006/linkedin.svg" width="24">
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="https://leetcode.com/Bhabana_Kalita/">
-    <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="22" />
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="24">
   </a>
 </p>
 
-<br/>
+</td>
+<div/>
 
+<td>
+
+<img src="https://camo.githubusercontent.com/41935d0f324d6684b781fbd9c63e622d0535df53f8e248ef81bebbffc637188d/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="250">
+
+</td>
+</tr>
+</table>
 </div>
 
 ---
