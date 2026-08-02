@@ -94,25 +94,11 @@ Computer Science undergraduate with a focus on building practical, impact-driven
 
 ---
 <h2 align="center"> GitHub Statistics</h2>
-
-<table>
-  <tr>
-    <td width="72%">
-     <img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhabana2504&theme=2077"
-  width="100%"
-  alt="GitHub Profile Details"
-    />
-    </td>
-    <td align="center" width="28%">
       <img
         src="https://camo.githubusercontent.com/c12dc84f6379c8cb610a396144918a63fe6c5eb686ce2c87c8cf810f4845e1f9/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f32322f32632f33352f32323263333563366139633432343538636466383261383837356135396166612e676966"
         width="300"
         alt="Animated Cat"
       />
-    </td>
-  </tr>
-</table>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhabana2504&theme=react-dark" alt="GitHub Activity Graph" width="98%" />
