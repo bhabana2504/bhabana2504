@@ -98,11 +98,11 @@ Computer Science undergraduate with a focus on building practical, impact-driven
 <table>
   <tr>
     <td width="72%">
-      <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhabana2504&theme=2077"
-        width="100%"
-        alt="GitHub Stats"
-      />
+     <img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhabana2504&theme=2077"
+  width="100%"
+  alt="GitHub Profile Details"
+    />
     </td>
     <td align="center" width="28%">
       <img
