@@ -99,19 +99,31 @@ Computer Science undergraduate with a focus on building practical, impact-driven
         width="300"
         alt="Animated Cat"
       />
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhabana2504&theme=2077"
+    alt="GitHub Profile Details"
+    width="95%"
+  />
+</p>
+
+<br>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=bhabana2504&show_icons=true&theme=react"
-    height="180"
-    alt="GitHub Statistics"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bhabana2504&theme=2077"
+    alt="GitHub Stats"
+    width="46%"
   />
+  &nbsp;&nbsp;
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhabana2504&layout=compact&theme=react"
-    height="180"
-    alt="Top Languages"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bhabana2504&theme=2077"
+    alt="Most Commit Language"
+    width="46%"
   />
 </p>
+
+<hr>
 
 <hr/>
 
