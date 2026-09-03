@@ -101,7 +101,11 @@ Computer Science undergraduate with a focus on building practical, impact-driven
       />
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhabana2504&theme=react-dark" alt="GitHub Activity Graph" width="98%" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=bhabana2504&theme=react-dark"
+    alt="GitHub Activity Graph"
+    width="98%"
+  />
 </p>
 
 <hr/>
