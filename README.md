@@ -10,19 +10,6 @@
 
 <h3>A Machine Learning and Full Stack Developer</h3>
 
-<p>
-            <a href="mailto:bhabanakalita25@gmail.com">
-    <img src="https://www.svgrepo.com/show/349378/gmail.svg" width="24">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/bhabana-kalita-338640295/">
-    <img src="https://www.svgrepo.com/show/157006/linkedin.svg" width="24">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://leetcode.com/Bhabana_Kalita/">
-    <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="24">
-  </a>
-</p>
 
 </td>
 <div/>
@@ -41,7 +28,10 @@
 ## About
 
 Computer Science undergraduate with a focus on building practical, impact-driven software. My work spans web development, machine learning , and AI-assisted applications - with a consistent emphasis on security, accessibility, system design , databases and real-world utility.
-###  https://bhabanakalita.netlify.app/
+
+[![Portfolio](https://img.shields.io/badge/🌍_Live_Portfolio-Visit_Now-blue?style=for-the-badge)](https://bhabanakalita.netlify.app)
+[![GitHub](https://img.shields.io/badge/GitHub-Bhabana2504-181717?style=for-the-badge&logo=github)](https://github.com/bhabana2504)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bhabana_Kalita-0A66C2?style=for-the-badge&logo=linkedin)](linkedin.com/in/bhabana-kalita-338640295)
 
 ---
 ## GitHub Contributions
